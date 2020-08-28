@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d8c41adf-f689-4a2a-95c1-026d6b26a1c9" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -36,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -113,12 +115,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598466470991</updated>
-      <workItem from="1598466498882" duration="59449000" />
+      <workItem from="1598466498882" duration="60443000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="409" y="65" key="#LoginForm.jsx" timestamp="1598479518838">
@@ -141,22 +146,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="322" y="169" key="EditFileWatcherDialog/0.0.1366.738@0.0.1366.738" timestamp="1598480495784" />
-    <state width="1345" height="191" key="GridCell.Tab.0.bottom" timestamp="1598641801147">
+    <state width="1345" height="191" key="GridCell.Tab.0.bottom" timestamp="1598643909832">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="191" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598641801147" />
-    <state width="1345" height="191" key="GridCell.Tab.0.center" timestamp="1598641801146">
+    <state width="1345" height="191" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598643909832" />
+    <state width="1345" height="191" key="GridCell.Tab.0.center" timestamp="1598643909831">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="191" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598641801146" />
-    <state width="1345" height="191" key="GridCell.Tab.0.left" timestamp="1598641800499">
+    <state width="1345" height="191" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598643909831" />
+    <state width="1345" height="191" key="GridCell.Tab.0.left" timestamp="1598643909830">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="191" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598641800499" />
-    <state width="1345" height="191" key="GridCell.Tab.0.right" timestamp="1598641801146">
+    <state width="1345" height="191" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598643909830" />
+    <state width="1345" height="191" key="GridCell.Tab.0.right" timestamp="1598643909831">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="191" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598641801146" />
+    <state width="1345" height="191" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598643909831" />
     <state x="186" y="15" key="SettingsEditor" timestamp="1598480482508">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
