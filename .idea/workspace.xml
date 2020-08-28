@@ -2,42 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8c41adf-f689-4a2a-95c1-026d6b26a1c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Re_lMayer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Loader/Loader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Loader/Loader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LoginForm/LoginForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LoginForm/LoginForm.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/Search/Search.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/Search/Search.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/UsersRow/UsersRow.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/UsersRow/UsersRow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/UsersTable.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/UsersTable.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/LoginPage/LoginPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/LoginPage/LoginPage.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/UsersPage/UsersPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/UsersPage/UsersPage.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/requests/links.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/requests/requests.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/actions.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/loginReducer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/rootReducer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/store.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/types.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/usersReducer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +17,9 @@
       <list>
         <option value="HTML File" />
         <option value="HTTP Request" />
-        <option value="JavaScript File" />
         <option value="JSX File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -80,6 +48,11 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Site Projects\emphasoft" />
+    </key>
   </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
@@ -140,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598466470991</updated>
-      <workItem from="1598466498882" duration="55640000" />
+      <workItem from="1598466498882" duration="59449000" />
     </task>
     <servers />
   </component>
@@ -168,22 +141,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="322" y="169" key="EditFileWatcherDialog/0.0.1366.738@0.0.1366.738" timestamp="1598480495784" />
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1598576414597">
+    <state width="1345" height="191" key="GridCell.Tab.0.bottom" timestamp="1598641801147">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598576414597" />
-    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1598576414595">
+    <state width="1345" height="191" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598641801147" />
+    <state width="1345" height="191" key="GridCell.Tab.0.center" timestamp="1598641801146">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598576414595" />
-    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1598576414595">
+    <state width="1345" height="191" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598641801146" />
+    <state width="1345" height="191" key="GridCell.Tab.0.left" timestamp="1598641800499">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598576414595" />
-    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1598576414596">
+    <state width="1345" height="191" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598641800499" />
+    <state width="1345" height="191" key="GridCell.Tab.0.right" timestamp="1598641801146">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598576414596" />
+    <state width="1345" height="191" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598641801146" />
     <state x="186" y="15" key="SettingsEditor" timestamp="1598480482508">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
