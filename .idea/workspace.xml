@@ -1,9 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8c41adf-f689-4a2a-95c1-026d6b26a1c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Re_lMayer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Loader/Loader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Loader/Loader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoginForm/LoginForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoginForm/LoginForm.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/Search/Search.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/Search/Search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/UsersRow/UsersRow.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/UsersRow/UsersRow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/UsersTable.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UsersTable/UsersTable.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/LoginPage/LoginPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/LoginPage/LoginPage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/UsersPage/UsersPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/UsersPage/UsersPage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/requests/links.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/requests/requests.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/loginReducer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/rootReducer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/types.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/usersReducer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="HTTP Request" />
+        <option value="JavaScript File" />
+        <option value="JSX File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1geE4rTBEcpQ9HlIagQwjjnh2II" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://httpbin.org/anything" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="9804859b-ea4e-481b-b2e0-240578f584e5" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="ts" />
+                <option name="value" value="1598481231" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="get-requests#5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" index="5" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.get-requests#5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8c41adf-f689-4a2a-95c1-026d6b26a1c9" name="Default Changelist" comment="" />
+      <created>1598466470991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598466470991</updated>
+      <workItem from="1598466498882" duration="55640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="65" key="#LoginForm.jsx" timestamp="1598479518838">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="409" y="65" key="#LoginForm.jsx/0.0.1366.738@0.0.1366.738" timestamp="1598479518838" />
+    <state x="424" y="179" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598483576622">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="424" y="179" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1598483576622" />
+    <state x="324" y="63" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1598480712293">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="324" y="63" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.738@0.0.1366.738" timestamp="1598480712293" />
+    <state x="513" y="94" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1598480414402">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="513" y="94" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1366.738@0.0.1366.738" timestamp="1598480414402" />
+    <state x="322" y="169" key="EditFileWatcherDialog" timestamp="1598480495784">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="322" y="169" key="EditFileWatcherDialog/0.0.1366.738@0.0.1366.738" timestamp="1598480495784" />
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1598576414597">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598576414597" />
+    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1598576414595">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598576414595" />
+    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1598576414595">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598576414595" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1598576414596">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598576414596" />
+    <state x="186" y="15" key="SettingsEditor" timestamp="1598480482508">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="15" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1598480482508" />
+    <state x="563" y="315" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog" timestamp="1598480359720">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="563" y="315" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog/0.0.1366.738@0.0.1366.738" timestamp="1598480359720" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1598562370990">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1598562370990" />
   </component>
 </project>

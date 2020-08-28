@@ -1,0 +1,35 @@
+@import "../../styles/colors";
+@import "../../styles/mixins";
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+.login-form__title, .login-form__field, .login-form__auth-button {
+  margin: 10px 0;
+}
+
+.login-form__title {
+  text-align: center;
+}
+
+.login-form__field, .login-form__auth-button {
+  @include no_default_input_decoration();
+  transition: background-color 0.5s ease;
+}
+
+.login-form__field {
+  @include input_style();
+
+  &:focus {
+    background-color: darken($onpage-input-background-color, 10%);
+  }
+}
+
+
+.login-form__auth-button {
+  @include button_style();
+}

@@ -1,0 +1,21 @@
+@import "../../../styles/mixins";
+@import "../../../styles/colors";
+
+.table-search {
+  display: block;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.table-search__loupe-icon {
+  position: absolute;
+  left: 10px;
+  top: 8px;
+}
+
+.table-search__field {
+  @include no_default_input_decoration();
+  @include input_style();
+
+  padding-left: 38px;
+}

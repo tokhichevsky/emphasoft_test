@@ -1,0 +1,54 @@
+@import "../../../styles/colors";
+
+.table-row-additional {
+  padding: 20px;
+  background-color: lighten($table-row-selected-color, 15%);
+  border-bottom: 5px solid $table-row-selected-color;
+}
+
+.table-row-additional__item {
+  font-size: 1em;
+  padding: 5px 0;
+
+  &:not(:last-child) {
+    border-bottom: 1px solid $table-row-selected-color;
+  }
+}
+
+.table-row {
+  cursor: pointer;
+  height: 50px;
+  border-bottom: 1px solid $table-row-selected-color;
+  transition: 0.5s ease;
+
+  td {
+    font-size: 1em;
+    font-weight: normal;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-color: $table-row-selected-color;
+    text-align: center;
+
+    &:first-child {
+      border-left-width: 1px;
+    }
+  }
+
+  &:hover {
+    background-color: $table-row-hover-color;
+  }
+  &:last-child {
+    td {
+      border-bottom: 0;
+    }
+  }
+}
+
+.table-row_selected {
+  background-color: $table-row-selected-color;
+
+  td {
+    font-size: 1em;
+    font-weight: bold;
+  }
+}

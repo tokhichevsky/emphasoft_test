@@ -1,0 +1,28 @@
+@import "./styles/gradients";
+
+.app {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100%;
+  background: $page-background-gradient;
+  background-blend-mode: screen;
+}
+
+.app__container {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding: 30px;
+  box-sizing: border-box;
+  flex-grow: 1;
+  @media screen and (max-width: 480px) {
+    padding: 0;
+  }
+}
+
+h2 {
+  font-size: 1.4rem;
+}

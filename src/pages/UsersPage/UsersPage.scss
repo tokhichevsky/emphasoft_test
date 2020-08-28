@@ -1,0 +1,7 @@
+@import "../../styles/mixins";
+
+.page-users {
+  @include page_style();
+  width: 100%;
+  flex-grow: 1;
+}

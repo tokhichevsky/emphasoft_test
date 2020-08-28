@@ -1,0 +1,10 @@
+$header-background-color: rgb(255, 237, 149);
+$onpage-button-background-color: #ff6b48;
+$onpage-button-font-color: white;
+$onpage-input-background-color: #f0f0f0;
+
+$table-headers-color: #ff707a;
+$table-row-color: lighten($header-background-color, 20%);
+$table-row-selected-color: $header-background-color;
+$table-border-color: white;
+$table-row-hover-color: darken($table-row-color, 10%);
