@@ -18,7 +18,7 @@ class Header extends React.Component {
         return (
             <header className="header">
                 <Link to="/" className="header__title"><h2 >Emphasoft Test</h2></Link>
-                <div className="header__button" onClick={this.handleLogoutClick}>Выйти</div>
+                {this.props.is_authorized && <div className="header__button" onClick={this.handleLogoutClick}>Выйти</div>}
             </header>
         );
     }
@@ -28,4 +28,8 @@ const mapDispatchToProps = {
     logout
 };
 
-export default connect(null, mapDispatchToProps)(Header);
+const mapStateToProps = state => ({
+    is_authorized: !!state.login.token
+});
+
+export default connect(mapStateToProps, mapDispatchToProps)(Header);
