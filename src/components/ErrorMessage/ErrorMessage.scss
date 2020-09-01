@@ -1,0 +1,27 @@
+@import "../../styles/colors";
+
+.error-message {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: $warning-background-color;
+  border: 1px solid $warning-border-color;
+  box-sizing: border-box;
+  min-width: 100%;
+  width: min-content;
+}
+
+.error-message__text {
+  margin: 0 0 10px 0;
+  flex-shrink: 1;
+  flex-grow: 0;
+
+  &:last-of-type {
+    margin: 0;
+  }
+
+  color: $warning-text-color;
+  white-space: normal;
+}

@@ -8,3 +8,7 @@ $table-row-color: lighten($header-background-color, 20%);
 $table-row-selected-color: $header-background-color;
 $table-border-color: white;
 $table-row-hover-color: darken($table-row-color, 10%);
+
+$warning-text-color: #c99e00;
+$warning-border-color: #ffd600;
+$warning-background-color: #fff0d1;

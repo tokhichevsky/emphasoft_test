@@ -1,7 +1,7 @@
 import React from 'react';
 import './Header.scss';
 import {Link} from "react-router-dom";
-import {login, logout} from "../../store/actions";
+import {logout} from "../../store/actions";
 import {connect} from "react-redux";
 
 class Header extends React.Component {
